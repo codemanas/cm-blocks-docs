@@ -3,3 +3,5 @@ theme:
   name: material
 nav:
   - Introduction: index.md
+  - Installation: installation.md
+  - Blocks Template: template.md
