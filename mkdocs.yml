@@ -1,0 +1,5 @@
+site_name: CM Blocks
+theme:
+  name: material
+nav:
+  - Introduction: index.md
