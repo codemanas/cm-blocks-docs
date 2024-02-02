@@ -3,9 +3,16 @@ theme:
   name: material
   palette:
     primary: custom
+    accent: custom
+  font:
+    text: Sofia Pro
 extra_css:
   - css/extra.css
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Introduction: index.md
   - Installation: installation.md
   - Blocks Template: template.md
+  - CM Slider: slider.md

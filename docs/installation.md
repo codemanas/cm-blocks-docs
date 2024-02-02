@@ -6,15 +6,12 @@
 </ul>
 
 ## Automatic Installation 
-<ol>
-<li> Go to <b>WordPress Plugins > Add New</b> Search for "CM Blocks" </li>
-<li> Click <b>Install</b> and then <b>activate</b> Plugin </li>
-</ol>
+- [x] Navigate to WordPress <b>Dashboard > Plugins</b>.
+- [x] Click the Add New button and put <b>"CM Blocks"</b> into the Search Bar.
+- [x]  When the plugins open click <b>Install</b> then <b>Activate</b>.
 
 ## Manual Installation
 <p> If for some reason automatic installation is not possible, go to [path/to/CM-Blocks-plugin] and you will see the download button. Clicking download button will provide you with a zip file of the plugin then.</p>
-<ol>
-<li> Go to <b>WordPress Plugins > Add New</b> and click <b>upload plugin</b>. </li>
-<li> Click <b>upload plugin</b> and then add the zip file. </li>
-<li> The plugin will then be installed, then <b>activate</b> the plugin. </li>
-</ol>
+- [x] Go to <b>WordPress Plugins > Add New</b> and click <b>upload plugin</b>. </li>
+- [x] Click <b>upload plugin</b> and then add the zip file. </li>
+- [x] The plugin will then be installed, then <b>activate</b> the plugin. </li>
