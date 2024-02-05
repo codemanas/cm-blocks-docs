@@ -5,7 +5,6 @@ Cm Slider is a WordPress Blocks that is designed to make the creation of slider 
 ![CM  Block Banner](img/Slider/slider-patterns.jpg)
 
 To use Our blocks you can directly press <b>+</b> button and search for CM Slider block. You can either start building slider from scratch or choose out beautiful prebuild patterns. Currently there are 5 beautiful slider templates available, which you can use it or also can modify as well.
-
 ## Slider Setting and Styles
 Slider options and customization  is categorized into Setting and Styles.
 
@@ -21,7 +20,7 @@ When you enable this option, your slider becomes draggable. If you drag while ho
 Enabling this options automatically play the slider. You don't have to navigate between slides using navigation button or by sliding. 
 
 #### Show Buttons
-It allows you to show navigation button.
+It allows you to show next and prev navigation button.
 
 #### Enable Pagination
 ![CM  Block Banner](img/Slider/slider-pagination.jpg)
@@ -47,4 +46,4 @@ Navigation Color and Background can be choosed accordingly to your needs.
 This options adjust the size of navigation button.
 
 #### Navigation Padding
-Navigation button padding can be adjusted accordingly.
+Next and Prev Navigation button padding can be adjusted accordingly.
