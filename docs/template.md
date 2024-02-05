@@ -21,11 +21,11 @@ All of our blocks become available as soon as a block is successfully inserted. 
 ## Available Blocks
 The big bundle of blocks will be called CM Blocks. But as of right now, our collection consists of 7 blocks. They are:
 <ul>
-    <li>CM Accordion</li>
-    <li>CM Slider</li>
-    <li>CM Counter</li>
-    <li>CM Countdown</li>
-    <li>CM Masonry Gallery</li>
-    <li>CM Tabs</li>
-    <li>CM Progress Bar</li>
+    <li>Accordion</li>
+    <li>Slider</li>
+    <li>Counter</li>
+    <li>Countdown</li>
+    <li>Masonry Gallery</li>
+    <li>Tabs</li>
+    <li>Progress Bar</li>
 </ul>
