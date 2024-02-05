@@ -1,8 +1,8 @@
 ## Introduction
-Cm Accordion is a WordPress Blocks that is designed to create accordion sections effortlessly in WordPress. Using our Accordion Block you can create organize data in a compact form. Visitors can expand or collapse its information. This will enhance user experience and make site space organized. Accordion can be used in different sections like, FAQs, Questions Answers ans much more.
+Cm Accordion is a WordPress Blocks that is designed to create accordion sections effortlessly in WordPress. Using our Accordion Block you can create organize data in a compact form. Visitors can expand or collapse its information. This will enhance user experience and make site space organized. Accordion can be used in different sections like, FAQs, Questions Answers and much more.
 
 ## Accordion Setting and Styles
-Accordion options and customization  is categorized into Setting and Styles. We have setting and styles options for both acoordion as well as accordion icon.
+Accordion options and customization  is categorized into two i.e Setting and Styles. We have setting and styles options for both acoordion as well as accordion icon.
 
 ![CM  Accordion Setting Style Image](img/accordion/setting-style.jpg)
 
