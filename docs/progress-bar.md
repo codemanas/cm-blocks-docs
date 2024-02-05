@@ -1,5 +1,10 @@
 ## Introduction
 Cm Progress Bar is a WordPress Blocks that is designed to make beautiful slider bar without writing long lines of code on WordPress editor. Using CM Progress Bar you can easily showcase any progress percentage, milestones, showing skills levels and do much more. You also can get customization options like color, layout, orientation etc.
+
+## Use Progress Bar
+
+To use Our blocks you can directly press <b>+</b> button and search for CM Progress Bar block. When you use our Progress bar, default design appears at first. Then you can customize with our own design preferences.
+
 ## Progress Bar Setting and Styles
 Progress Bar options and customization  is categorized into Setting and Styles.
 
