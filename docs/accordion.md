@@ -38,4 +38,4 @@ Accordion Items styles is the setting of child element of accordion.
 #### Dimensions
 Under the Dimensions, options for margin is given. You can control the margin of individuals accordion items.
 
-The remaining header and content settings include the options for text color and background color of both header and content
+There is an option available for customizing the text color and background color separately for headings and content, enabling control over these settings for each individual item.

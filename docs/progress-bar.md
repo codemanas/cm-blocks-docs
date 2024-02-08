@@ -36,8 +36,8 @@ Here, the position of both title and percentage can be adjusted from here.
 #### Dimensions and Motions
 ![Progress Bar Dimensions and Motions ](img/progress-bar/dimensions-and-motions.jpg)
 
-The time duration of the Progress Bar can be adjusted from the first option.
+The time duration of the Progress Bar can be adjusted from the duration option.
 
-Height/Thickness of Progress Bar can be adjusted from the second slider option.
+Height/Thickness of Progress Bar can be adjusted from the height option. For the vertical layout this option works as width.
 
-Third option is to set the border radius of Progress bar.
+Border radius option enables to set the border radius of Progress bar.
