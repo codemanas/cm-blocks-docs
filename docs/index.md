@@ -13,7 +13,3 @@ You can also combine multiple blocks, customize it and make stunning posts and p
     <li>Customizable.</li>
     <li>Setting and Styles tab for each blocks.</li>
 </ul>
-
-    We don't currently have a live demo that uses every block in our library.
-    However, we are confident that it is easy to use because we have lovely 
-    built-in templates that simplify your work.
