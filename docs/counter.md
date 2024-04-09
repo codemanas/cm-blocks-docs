@@ -38,6 +38,8 @@ It is the text which can be displayed after the counter value.
 Comma (,) and (.) Dots two options are provided as the thousand seperator.
 
 ### Counter Styles
+![CM Counter Styles](img/counter/counter-styles.jpg)
+
 #### Typography
 These are the same default options that WordPress provides. You can alter every text option on the counter, including appearance, font family, line height, text decoration and letter spacing.
 
@@ -48,7 +50,11 @@ Counter Dimensions have options to control padding and margin of the counter.
 Border radius and Border can be added in counter from here. 
 
 #### Color
+![CM  Counter Colors](img/counter/colors.jpg)
+
 Colors for the counter background, title, counter text, suffix, and prefix can all be manually changed.
 
 #### Suffix Gap and Prefix Gap
+![CM  Counter Colors](img/counter/suffix-prefix.jpg)
+
 This options adds gap between prefix - counter and counter - suffix
