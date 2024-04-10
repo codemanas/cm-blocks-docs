@@ -1,5 +1,5 @@
 ## Introduction
-Cm Countdown is a WordPress Blocks that allows user to add timer inside WordPress content editor. Countdown timers are effective for generating excitement, anticipation, and urgency for upcoming events, product launches, promotions, or any other time-sensitive activities. This Blocks also provide various customization options as well.
+CM Countdown is a WordPress Blocks plugin that allows user to add timer inside WordPress content editor. Countdown timers are effective for generating excitement, anticipation, and urgency for upcoming events, product launches, promotions, or any other time-sensitive activities. This Blocks also provide various customization options as well.
 
 ## Countdown Patterns
 ![CM  Countdown Patterns](img/countdown/patterns.jpg)
@@ -12,13 +12,14 @@ To use Our blocks you can directly press <b>+</b> button and search for CM Count
 Countdown options and customization  is categorized into Setting and Styles.
 
 ### Countdown Setting
+
 #### Expiry time
-Here you can choose the date and time of the events and start countdown to till date. When you click on the link a popup calendar appears on the right side from which you can choose the date and time of the events.
+Users can select the date and time of their events and initiate a countdown until the chosen date. Clicking on the link triggers a popup calendar to appear on the right side, enabling users to select the desired date and time for their events.
 
 #### Labels
 ![CM  Countdown Text](img/countdown/labels.jpg)
 
-Here the label text can be added for days, Hours, Minutes, Seconds and Separator as well.
+The label text can be added for days, Hours, Minutes, Seconds and Separator as well.
 
 #### Action after Expiry
 ![CM  Countdown Text](img/countdown/expiry-message.jpg)
@@ -44,7 +45,11 @@ The color options include the text color of titles, digit and separator. As well
 #### Layout
 ![CM  Countdown Layout](img/countdown/layout.jpg)
 
-The countdown's orientation and content arrangement can be chosen under the layout options. The countdown has two orientation options: vertical and horizontal.  Similarly, there are four options for content layout: row, column, row-reverse, and column-reverse.
+##### Orientation
+The countdown has two orientation options: vertical and horizontal. 
+
+##### Content Layout
+There are four options for content layout: row, column, row-reverse, and column-reverse.
 
 #### Countdown Dimensions
 ![CM  Countdown Dimensions](img/countdown/countdown-dimentions.jpg)

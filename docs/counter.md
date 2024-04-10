@@ -1,5 +1,5 @@
 ## Introduction
-Cm Counter is a WordPress Blocks that is designed to make the creation of beautiful Counters easily without writing a bunch of code inside WordPress content editor. Using CM Counter you can easily showcase any numeric data, milestones or any statistics. This WP Blocks offers various customization options like Prefix, Suffix, Counter Durations and other styles offering user to customize as per their wish.
+CM Counter is a WordPress Blocks plugin crafted for creation of stunning counters within the WordPress content editor. With CM Counter, you can display numeric data, milestones, or statistics without the need for extensive coding. This plugin provides various customization options such as Prefix, Suffix, Counter Durations, and diverse styles, empowering users to use the counters to their preferences.
 
 ## Counter Patterns
 ![CM  Counter Patterns](img/counter/counter-patterns.png)
