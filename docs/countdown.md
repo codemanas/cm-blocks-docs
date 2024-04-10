@@ -15,10 +15,10 @@ Countdown options and customization  is categorized into Setting and Styles.
 #### Expiry time
 Here you can choose the date and time of the events and start countdown to till date. When you click on the link a popup calendar appears on the right side from which you can choose the date and time of the events.
 
-#### Text
-![CM  Countdown Text](img/countdown/text.jpg)
+#### Labels
+![CM  Countdown Text](img/countdown/labels.jpg)
 
-Here the title text can be added for days, Hours, Minutes, Seconds and Separator as well.
+Here the label text can be added for days, Hours, Minutes, Seconds and Separator as well.
 
 #### Action after Expiry
 ![CM  Countdown Text](img/countdown/expiry-message.jpg)
@@ -29,7 +29,7 @@ This options allow you to display your own custom message after the countdown ti
 ![CM  Countdown stytle](img/countdown/styles.jpg)
 
 #### Typography
-Under Countdown typography there is varieties of font options like font family, text-sizes, digits sizes, separator sizes and mush more.
+Countdown typography gioffers a range of fonts, text sizes, digit sizes, separator sizes, and more.
 
 #### Dimensions
 ![CM  Countdown Dimensions](img/countdown/dimensions.jpg)
@@ -49,7 +49,7 @@ The countdown's orientation and content arrangement can be chosen under the layo
 #### Countdown Dimensions
 ![CM  Countdown Dimensions](img/countdown/countdown-dimentions.jpg)
 
-Countdown dimensions specifies the padding and margin for the countdown. Individual side margin and padding also can be added expanding the options.
+The Countdown dimensions includes padding, margin, and separator margin. Each of these can be adjusted individually for precise customization.
 
 #### Border
 ![CM  Countdown border](img/countdown/border.jpg)

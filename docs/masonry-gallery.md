@@ -9,12 +9,14 @@ To use Our blocks you can directly press <b>+</b> button and search for CM Mason
 ![CM  Masonry Gallery Setting](img/gallery/setting.jpg)
 
 ### Options
-This columns specifies total number of image to be displayed in row. The maximum number of columns is 12. that means 12 items can be fitted on 1 row
+![CM  Masonry Options caption](img/gallery/options.png)
+
+This column specifies the total number of images to be displayed in a row. The maximum number of columns is 12, meaning that up to 12 items can fit in one row.
 
 ### Caption
 ![CM  Masonry Gallery caption](img/gallery/caption.jpg)
 
-Turning on captions makes it easier to add text overlays to each individual image. This is also where you can specify where the caption will appear i.e Top, Bottom or Center.
+Turning on captions makes it easier to add text overlays to each image. You can also choose where the captions will appear: at the Top, Bottom, or Center.
 
 ### Lightbox
 ![CM  Masonry Gallery Lightbox](img/gallery/lightbox.jpg)
