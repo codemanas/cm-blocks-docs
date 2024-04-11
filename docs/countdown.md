@@ -1,10 +1,11 @@
 ## Introduction
-CM Countdown is a WordPress Blocks plugin that allows user to add timer inside WordPress content editor. Countdown timers are effective for generating excitement, anticipation, and urgency for upcoming events, product launches, promotions, or any other time-sensitive activities. This Blocks also provide various customization options as well.
+CM Countdown is a WordPress Blocks plugin crafted for creation of stunning counters within the WordPress content editor. Countdown timers are effective for generating excitement, anticipation, and urgency for upcoming events, product launches, promotions, or any other time-sensitive activities. The block offers a variety of options to tailor it to your preferences.
 
 ## Countdown Patterns
 ![CM  Countdown Patterns](img/countdown/patterns.jpg)
 
-To use Our blocks you can directly press <b>+</b> button and search for CM Countdown block. You can either start building slider from scratch or choose out beautiful prebuild patterns. Currently there are 5 beautiful slider templates available, which you can use it or also can modify as well.
+To use our blocks, use the <b>+</b> button and search for "CM Countdown" to access the block. Jumpstart your design with a choice of over five  pre-built countdown templates, or customize your Countdown entirely from scratch.
+
 
 ## Countdown Setting and Styles
 ![CM  Countdown Setting and Styles](img/countdown/setting-style.jpg)
@@ -30,7 +31,7 @@ This options allow you to display your own custom message after the countdown ti
 ![CM  Countdown stytle](img/countdown/styles.jpg)
 
 #### Typography
-Countdown typography gioffers a range of fonts, text sizes, digit sizes, separator sizes, and more.
+Countdown typography offers a range of fonts, text sizes, digit sizes, separator sizes, and more.
 
 #### Dimensions
 ![CM  Countdown Dimensions](img/countdown/dimensions.jpg)

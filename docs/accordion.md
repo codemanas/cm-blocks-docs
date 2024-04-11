@@ -1,13 +1,14 @@
 ## Introduction
-Cm Accordion is a WordPress Blocks that is designed to create accordion sections effortlessly in WordPress. Using our Accordion Block you can create organize data in a compact form. Visitors can expand or collapse its information. This will enhance user experience and make site space organized. Accordion can be used in different sections like, FAQs, Questions Answers and much more.
+CM Accordion is a WordPress Blocks is designed to create accordion sections in WordPress Content Editor. Accordian can create organize data in a compact form. Users can expand or collapse its information that enhances user experience and make site space organized. It can be used in different sections like, FAQs, Questions Answers and much more.
 
 ## Accordion Patterns
 ![CM  Block Banner](img/accordion/accordion-patterns.jpg)
 
-To use Our blocks you can directly press <b>+</b> button and search for CM Accordion Block. You can either start building slider from scratch or choose out beautiful prebuild patterns. Currently, there are 5 accordion templates available, which you can use it or also can modify as well.
+To use our blocks,use the <b>+</b> button and search for "CM Accordion" to access the block. Jumpstart your design with a choice of over five accordian pre-built templates, or customize your slider entirely from scratch.
+
 
 ## Accordion Setting and Styles
-Accordion options and customization  is categorized into two i.e Setting and Styles. We have setting and styles options for both acoordion as well as accordion icon.
+Accordion options and customization  is categorized into two i.e Setting and Styles. It can easily adjust settings and styles for both the accordion and its icon. 
 
 ![CM  Accordion Setting Style Image](img/accordion/setting-style.jpg)
 
@@ -64,7 +65,7 @@ Accordion Items styles is the styles of child element of accordion.
 ![CM Accordion Item Styles](img/accordion/accordion-item-styles.jpg)
 
 #### Dimensions
-Under dimensions, we cn adjust the margin of single accordion items.
+Under dimensions, we can adjust the margin of single accordion items.
 
 #### Accordion Item Header Settings
 ![CM Accordion Item Header Settings](img/accordion/cm-accordion-item-header-settings.jpg)

@@ -1,5 +1,5 @@
 ## Using the blocks
-It is one of the most amaizing way to add blocks by using drag and drop functionality. To use the plugin, follow these steps.
+Blocks is an effective way to add blocks by using drag and drop functionality. To use the plugin, follow these steps.
 <ul class="task-list">
     <li class="task-list-item">
         <input type="checkbox" disabled="" checked="">
@@ -16,16 +16,16 @@ It is one of the most amaizing way to add blocks by using drag and drop function
 </ul>
 
 ## Choose a Template
-All of our blocks become available as soon as a block is successfully inserted. Thus, each block has two options when adding it for the first time. One option is to select one of the available templates, and another is to start creating the blocks from scratch. For every block, we have more than four beautiful patterns available.
+All of our blocks become available for use as you add your first block. Each block has two options when adding it for the first time. First option is to select one of the available templates, and second is to start creating the blocks from scratch. For every block, you can choose from a wide selection of over four design patterns.
 
 ## Available Blocks
-The big bundle of blocks will be called CM Blocks. But as of right now, our collection consists of 7 blocks. They are:
+The library of blocks will be called CM Blocks, currently featuring 6 powerful options to build websites with ease. They are:
+
 <ul>
     <li>Accordion</li>
     <li>Slider</li>
     <li>Counter</li>
     <li>Countdown</li>
     <li>Masonry Gallery</li>
-    <li>Tabs</li>
     <li>Progress Bar</li>
 </ul>

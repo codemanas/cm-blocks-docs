@@ -1,9 +1,9 @@
 ## Introduction
-CM Masonry Gallery is a WordPress Blocks plugin designed to make the grid based gallery inside WordPress content editor. Unlike traditional gallery, Masonry Gallery utilizes dynamic algorithm to automatically adjust image on the basis of their dimensions. This Gallery  make each image fits tightly together. Masonry Gallery also provides dynamic customizations options like lightbox, captions etc.
+CM Masonry Gallery is a WordPress Blocks plugin designed to make the grid based gallery in WordPress content editor. Unlike traditional gallery, Masonry Gallery utilizes dynamic algorithm to automatically adjust image on the basis of their dimensions. The gallery make each image fits tightly together. Masonry Gallery also provides dynamic customizations options like lightbox, captions etc.
 
 ## Use Masonry Gallery
 
-To use Our blocks you can directly press <b>+</b> button and search for CM Masonry Gallery block. At first, you have to choose multiple images to create a gallery and go on customizing it.
+To use Our blocks, use the <b>+</b> button and search for "CM Masonry Gallery" to access the block. At first, select your favorite images to create gallery and customize them accordingly.
 
 ## Masonry Gallery Setting
 ![CM  Masonry Gallery Setting](img/gallery/setting.jpg)
