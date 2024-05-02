@@ -11,8 +11,8 @@ You can configure it as per your preference as outlined below.
 
 ![Show Popup Once ](img/show-popup-once.png)
 
-Enabling this option will only show popup once per user. Once the visitor closes the popup, it will not be shown to that user.
-This could be helpful if you do not want to obstruct your user with multiple instance of same popup.
+Enabling this option will only show popup once per user. After closing the popup ,it will not be shown to the user.
+This would be helpful if you do not want to obstruct your user with multiple instances of same popup.
       
 ## Auto Close Popup</p>
 ![Popup Behaviour Auto Close](img/popup-behaviour-auto-close.png)
