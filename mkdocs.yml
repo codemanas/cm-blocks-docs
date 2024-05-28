@@ -40,3 +40,10 @@ nav:
           - 'Display On Whole Site': 'simple-popup-block/display-on-whole-site.md'
           - 'Show popup on click': 'simple-popup-block/trigger-on-click.md'
           - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
+  - Design Library:
+    - Introduction : design-library/index.md
+    - Features : design-library/features.md
+    - Choose a Pattern : design-library/choose-pattern.md
+
+        
+        
