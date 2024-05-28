@@ -1,0 +1,49 @@
+site_name: CM Blocks
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: custom
+  font:
+    text: Sofia Pro
+extra_css:
+  - css/extra.css
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+plugins:
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
+nav:
+  - Introduction: index.md
+  - Installation: installation.md
+  - Blocks Template: template.md
+  - Blocks:
+    - Slider: slider.md
+    - Accordion: accordion.md
+    - Counter: counter.md
+    - Progress Bar: progress-bar.md
+    - Masonry Gallery: masonry-gallery.md
+    - Countdown: countdown.md
+  - Simple Popup Block Plugin:
+      - Introduction: simple-popup-block/index.md
+      - Installation: simple-popup-block/installation.md
+      - Choose a Template: simple-popup-block/template.md
+      - Popup Trigger: simple-popup-block/popup-trigger.md
+      - Popup Behavior: simple-popup-block/popup-behavior.md
+      - Popup Condition: simple-popup-block/popup-condition.md
+      - Dimension: simple-popup-block/dimension.md
+      - Close Button: simple-popup-block/close-button.md
+      - Tutorial:
+          - 'Display On Whole Site': 'simple-popup-block/display-on-whole-site.md'
+          - 'Show popup on click': 'simple-popup-block/trigger-on-click.md'
+          - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
+  - Design Library:
+    - Introduction : design-library/index.md
+    - Features : design-library/features.md
+    - Choose a Pattern : design-library/choose-pattern.md
+
+        
+        
