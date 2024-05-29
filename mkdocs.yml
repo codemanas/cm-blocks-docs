@@ -44,6 +44,9 @@ nav:
           - 'Display On Whole Site': 'simple-popup-block/display-on-whole-site.md'
           - 'Show popup on click': 'simple-popup-block/trigger-on-click.md'
           - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
+  - CM Enterprise Theme:
+      - Introduction: cm-enterprise/index.md
+      - Design: cm-enterprise/design.md
 
 
         
