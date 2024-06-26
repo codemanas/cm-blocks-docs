@@ -1,13 +1,13 @@
  
  * #### Easy Import:
-Easily import chosen template pages into your project.
+Easily import chosen template pages directly into your websites with just a few clicks, saving time and streamlining workflow.
 * #### Variety of Theme Categories :
-Offers a wide range of themes to suit various styles and purposes.
+Kits offers a wide range of theme categories to suit various styles and purposes, ensuring the perfect design for any type of website, whether it's a blog, a portfolio, or an e-commerce site.
 * #### Multiple Template Pages: 
-Each theme category includes more than four template pages to choose from.
+Each theme category includes multiple pages to choose from, providing with a variety of layout options and design elements to mix and match for your unique needs.
 * ####  Detailed Preview Images: 
-Select preview images to see the detailed design of individual template pages.
+Select preview images to see the detailed design of individual template pages, allowing to closely examine functionality of each page before making a choice.
 * #### Comprehensive Demos:
- Preview each template's layout and style with clear thumbnail images.
+Preview the layout and style of each template with clear thumbnail images and comprehensive demos, providing a full understanding of how the template will look and perform when implemented.
 * #### Customizable Designs:
-Templates are fully customizable to fit specific needs and preferences.
+All templates are fully customizable, allowing to adjust and modify the design to fit specific needs and preferences. This flexibility ensures the website to align perfectly with your vision and branding.

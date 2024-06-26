@@ -34,7 +34,7 @@ nav:
   - Kits:
     - Introduction : kits/index.md
     - Features : kits/features.md
-    - Choose a Kit Theme : kits/choose-kits.md   
+    - Choose a Kit : kits/choose-kits.md   
   - Simple Popup Block Plugin:
       - Introduction: simple-popup-block/index.md
       - Installation: simple-popup-block/installation.md
