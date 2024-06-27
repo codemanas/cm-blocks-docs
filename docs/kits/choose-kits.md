@@ -1,5 +1,5 @@
 
-Here are the steps to add our built-in Kit to your website:
+Here are the steps to add our built-in Kits to your website:
 
 * Install and activate **CM Blocks**
 * Open your desired page or post
@@ -11,7 +11,7 @@ Here are the steps to add our built-in Kit to your website:
 
 ![Design Library for Choose a Kit Theme](img/kits-docs-choose-img.png)
 
-* Clicking on **Kits** displays a collection of themes, such as **Lyrically**, **CM Enterprise**, **CM News** and so on. You can select any Kit Theme as per requirement.
+* Clicking on **Kits** displays a collection of themes, such as **Lyrically**, **CM Enterprise**, **CM News** and so on. You can select any Theme as per requirement.
 
 * You also have the option to search for Kits using specific keywords using the search bar.
 

@@ -4,7 +4,7 @@ Easily import chosen template pages directly into your websites with just a few 
 * #### Variety of Theme Categories :
 Kits offers a wide range of theme categories to suit various styles and purposes, ensuring the perfect design for any type of website, whether it's a blog, a portfolio, or an e-commerce site.
 * #### Multiple Template Pages: 
-Each theme category includes multiple pages to choose from, providing with a variety of layout options and design elements to mix and match for your unique needs.
+Each theme category includes multiple pages to choose from, providing a variety of layout options and design elements to mix and match for your unique needs.
 * ####  Detailed Preview Images: 
 Select preview images to see the detailed design of individual template pages, allowing to closely examine functionality of each page before making a choice.
 * #### Comprehensive Demos:
