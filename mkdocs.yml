@@ -21,20 +21,24 @@ nav:
   - Installation: installation.md
   - Blocks Template: template.md
   - Blocks:
-    - Slider: slider.md
-    - Accordion: accordion.md
-    - Counter: counter.md
-    - Progress Bar: progress-bar.md
-    - Masonry Gallery: masonry-gallery.md
-    - Countdown: countdown.md
+      - Slider: slider.md
+      - Accordion: accordion.md
+      - Counter: counter.md
+      - Progress Bar: progress-bar.md
+      - Masonry Gallery: masonry-gallery.md
+      - Countdown: countdown.md
   - Design Library:
-    - Introduction : design-library/index.md
-    - Features : design-library/features.md
-    - Choose a Pattern : design-library/choose-pattern.md  
+      - Introduction: design-library/index.md
+      - Features: design-library/features.md
+      - Choose a Pattern: design-library/choose-pattern.md
   - Kits:
-    - Introduction : kits/index.md
-    - Features : kits/features.md
-    - Choose a Kit : kits/choose-kits.md   
+      - Introduction: kits/index.md
+      - Features: kits/features.md
+      - Choose a Kit: kits/choose-kits.md
+  - Favorites:
+      - Introduction: favorites/index.md
+      - Features: favorites/features.md
+      - Add, Remove or Display Favorites: favorites/add-remove-favorites.md
   - Simple Popup Block Plugin:
       - Introduction: simple-popup-block/index.md
       - Installation: simple-popup-block/installation.md
