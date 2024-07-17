@@ -5,6 +5,11 @@ CM Slider is a WordPress Blocks designed to create slider easy and flexible in W
 ![CM  Block Banner](img/Slider/slider-patterns.jpg)
 
 To use our blocks, use the <b>+</b> button and search for "CM Slider" to access the block. Jumpstart your design with a choice of over five  pre-built slider templates, or customize your slider entirely from scratch.
+    
+    Note!!
+    
+    Please do not wrap the CM Slider within a Row or Stack Block, as it 
+    causes issues. Instead, use a Group for wrapping it if necessary. 
 
 
 ## Slider Setting
