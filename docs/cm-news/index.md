@@ -2,7 +2,7 @@
 # CM Enterprise Docs
 
 ## Introduction
-![CM News ](img/screenshot.png)
+![CM News ](img/themes-cm-news-banner-2.png)
 
 **CM News** is a versatile and contemporary WordPress block theme tailored for news websites, featuring a clean, minimalist layout that highlights your content. With customizable blocks and intuitive drag-and-drop functionality, it allows for easy personalization and dynamic content arrangements. The theme is fully responsive, ensuring an optimal viewing experience on all devices, and includes built-in support for multimedia, social media integration, and SEO optimization to enhance your site's reach and engagement.
 
@@ -57,9 +57,8 @@ In WordPress, Style Variations are predefined set of design. On block theme it i
 
 CM News theme offers diverse style options to effortlessly transform your WordPress site. Choose from predefined color variations to jumpstart your palette or opt for combinations of colors and typography for a more distinctive look. These variations provide quick and easy ways to enhance the visual appeal and character of your website.
 
-    Color Variation: Default, Blackwhite, Bluefine, Ceruleanblue, Knightdark, Myrtlegreen, Purplecage
-
-    Fonts used: Roboto, Poppins
+- [x] Color Variation: Default, Blackwhite, Bluefine, Ceruleanblue, Knightdark, Myrtlegreen, Purplecage
+- [x] Fonts used: Roboto, Poppins
 
 Here, you’ll see a visual design representation of each style variation in the theme. To change the style variation navigate to:
 
@@ -99,7 +98,7 @@ CM News allows users to customize the front page. Take the following actions to 
 
 We have seven sections in Frontpage, which include the Header and Footer.
 
-### Edit Front Page section
+### How to Edit Front Page?
 
 To Edit Frontpage follow the following steps:
 
@@ -115,10 +114,15 @@ To Edit Frontpage follow the following steps:
 
 **Step 3**: To make changes to the frontpage template, click the edit button that shows up when you click the three dots in the lower right corner of the template.
 
+### How to Edit Front Page Section?
+
 Suppose you want to list news of another category in the homepage's hero section. To achieve it follow the below steps:
 
     Appereance → Editor → Templates → Edit Frontpage Template
 
-First of all select the query loop block. Next, the block panel shows up on the dashboard's right side. To add category click the plus symbol and add the category. The visualization is shown in the image below:
+- [x] First of all select the query loop block.
+- [x]  Next, the block panel shows up on the dashboard's right side.
+- [x]  To add category click the plus symbol and add the category. The visualization is shown in the image below:
 
 ![CM News Home Edit ](img/edit-home-visuals.jpg)
+
