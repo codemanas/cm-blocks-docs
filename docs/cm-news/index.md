@@ -126,6 +126,19 @@ Suppose you want to list news of another category in the homepage's hero section
 
 ![CM News Home Edit ](img/edit-home-visuals.jpg)
 
+## How to make sticky Header?
+
+![type:video](img/sticky-header-video.mp4)
+
+First, open the **Site Editor** by going to the WordPress admin, **Appearance** > **Editor**. Choose the template you want to edit, and click on the edit button to edit the template. Then, follow the steps given below:
+
+1. First select the header template from the List view.
+2. Select and drag the header template part inside the new group. Make the header full-width.
+3. Select the group block and open the position panel. Select the “Sticky” option.
+
+
+        Remember to update every template where you want to make sticky header.
+
 ## Search with Typesense
 Search with Typesense is a modern, privacy-friendly, open source search engine built from the ground up using cutting-edge search algorithms, that take advantage of the latest advances in hardware capabilities. 
 
