@@ -1203,7 +1203,9 @@
 
   <h1>General Theme</h1>
 
-<div><h2 id="how-to-add-additional-css">How to add Additional CSS</h2>
+<div><p>Additional CSS refers to custom CSS code that you can add to your website to modify its appearance and behavior beyond what is already provided by your theme or plugins. 
+It provides a way to tailor the styling of your website without directly editing the theme's core files, which helps in maintaining the integrity of the theme and simplifies future updates.</p>
+<h2 id="how-to-add-additional-css">How to add Additional CSS</h2>
 <ol>
 <li>Visit your site’s dashboard. </li>
 <li>Navigate to Appearance → Editor. </li>
@@ -1220,15 +1222,17 @@
 <h2 id="how-to-add-hover-state-for-navigation-block">How to add hover state for navigation block</h2>
 <p>By default, the new Site Editor doesn't offer an option to set the hover state for navigation items. Therefore, custom CSS is required. Follow the guide on <a href="#how-to-add-additional-css">How to add Additional CSS</a>.</p>
 <p>To modify the hover state of every navigation item on your site, use the following CSS:</p>
-<p><code>.wp-block-navigation-item:hover {
+<pre><code class="language-css">.wp-block-navigation-item:hover {
     color: #0000FF;
-}</code></p>
-<p>If you want to apply CSS specifically to the header navigation, add a custom class to the navigation block as shown in the screenshot below and adjust your CSS accordingly:
-<img alt="Specific Header Navigation Hover" src="img/specific-nav-class-hover.png"></p>
+}
+</code></pre>
+<p>If you want to apply CSS specifically to the navigation, add a custom class to the navigation block as shown in the screenshot below and adjust your CSS accordingly:</p>
+<p><img alt="Specific Header Navigation Hover" src="img/specific-nav-class-hover.png"></p>
 <p>Here's the CSS to target the header navigation:</p>
-<p><code>.your-custom-class .wp-block-navigation-item:hover {
+<pre><code class="language-css">.your-custom-class .wp-block-navigation-item:hover {
     color: #0000FF;
-}</code></p></div>
+}
+</code></pre></div>
 
 
 
