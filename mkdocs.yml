@@ -11,8 +11,10 @@ extra_css:
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
-
 plugins:
+  - search:
+        lang: en
+        separator: '[\s\-]+'
   - mkdocs-video:
       is_video: True
       video_muted: True
@@ -53,8 +55,9 @@ nav:
           - 'Display On Whole Site': 'simple-popup-block/display-on-whole-site.md'
           - 'Show popup on click': 'simple-popup-block/trigger-on-click.md'
           - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
+  - General Theme: general-theme/index.md
   -  Theme:
-      CM News: cm-news/index.md
+      - CM News: cm-news/index.md
         
 
 

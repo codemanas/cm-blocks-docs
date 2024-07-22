@@ -1,5 +1,5 @@
 
-# CM Enterprise Docs
+# CM News Docs
 
 ## Introduction
 ![CM News ](img/themes-cm-news-banner-2.png)
