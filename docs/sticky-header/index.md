@@ -16,3 +16,14 @@ usability.
    ![Enable Sticky Header](assets/img/enable-sticky-header.png)
 
 
+## How to add background to a sticky transparent header template part?
+
+1. Navigate to Dashboard → Appearance → Editor.
+2. Select the Patterns Tab
+3. Select the Header Tab and then select the template that you want to edit.
+4. Click on the Document Overview at the top left to open the panel if it's not already open.
+   ![Select Document Overview Panel](assets/img/select-document-overview-panel.png)
+5. Select the group block within your content.
+   ![Select Group Block](assets/img/select-group-block.png)
+6. Go to the settings panel on the right, click on the Style tab, and then choose the Background option to set a background color.
+   ![Select Style Tab And Add Background](assets/img/select-style-for-background.png)
