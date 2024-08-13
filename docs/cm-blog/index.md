@@ -138,3 +138,17 @@ First, open the **Site Editor** by going to the WordPress admin, **Appearance** 
 3. Select the group block and open the position panel. Select the “Sticky” option.
 
         Remember to update every template where you want to make sticky header.
+
+## FullPage Patterns
+We provide full-page patterns in CM Blog Theme for pages such as contact, profile, Home v2, Home v3 and so on. You may insert the full-page patterns the same way you put other patterns in order to use them.
+
+![Cm Blog FullPage Patterns](img/fullpage-patterns.png)
+
+Follow the steps performed in the video Below.
+
+![type:video](img/fullpage-pattern-video.mp4)
+
+## How to make Patterns Fullwidth?
+Some users want the patterns to be full width in **CM Blog**. So if you want to make any patterns fullwidth just disable **Inner blocks use content width** in the group which is directly under the outer group. The demonstration is also shown in the video below
+
+![type:video](img/make-patterns-full-width.mp4)
