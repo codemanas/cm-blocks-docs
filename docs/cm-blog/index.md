@@ -116,18 +116,19 @@ To Edit Frontpage follow the following steps:
 
 ### How to Edit Front Page Section?
 
-Suppose you want to list news of another category in the homepage's hero section. To achieve it follow the below steps:
+Suppose you want to list blog of another category in the homepage's hero section. To achieve it follow the below steps:
 
     Appereance → Editor → Templates → Edit Frontpage Template
 
 - [x] First of all select the query loop block.
 - [x]  Next, the block panel shows up on the dashboard's right side.
-- [x]  To add category click the plus symbol and add the category. The visualization is shown in the image below:
+- [x]  And then add desired category by clicking the plus symbol. The visualization is shown in the image below:
 
-![CM Blog Home Edit ](img/edit-home-visuals.jpg)
+![CM Blog Home Edit ](img/edit-home-visuals.png.png)
 
 ## How to make sticky Header?
 
+CM Blog theme allows you to make header sticky globally. In order to use this feature you have to download the latest version of <a href="https://wordpress.org/plugins/cm-blocks/" target="_blank">CM Blocks</a> plugin.
 ![type:video](img/sticky-header-video.mp4)
 
 First, open the **Site Editor** by going to the WordPress admin, **Appearance** > **Editor**. Choose the template you want to edit, and click on the edit button to edit the template. Then, follow the steps given below:
@@ -137,22 +138,3 @@ First, open the **Site Editor** by going to the WordPress admin, **Appearance** 
 3. Select the group block and open the position panel. Select the “Sticky” option.
 
         Remember to update every template where you want to make sticky header.
-
-## Search with Typesense
-Search with Typesense is a modern, privacy-friendly, open source search engine built from the ground up using cutting-edge search algorithms, that take advantage of the latest advances in hardware capabilities.
-
-<a href="https://wordpress.org/plugins/search-with-typesense/" target="_blank">Search with Typesense</a> has been integrated with CM Blog Theme to enhance your news search experience with its rapid search and autocomplete features. <a href="https://wordpress.org/plugins/search-with-typesense/" target="_blank">Click here</a> to access the plugin repository, or use the WordPress plugin directory to get Search with Typesense.
-
-To get started and configure, Search with Typesense, follow the detailed official guide  <a href="https://docs.wptypesense.com/getting-started/" target="_blank"> here</a>.
-
-CM Blog is fully compatible is Search with Typesense. You can check out the live demo of the integration here:
-
-<a href="http://demo.cmblocks.com/cm-news/search-with-typesense/autocomplete/" target="_blank">Autocomplete</a>
-
-<a href="https://demo.cmblocks.com/cm-news/search-with-typesense/instant-search/" target="_blank">Instant Search</a>
-
-![CM Blog autocomplete ](img/news-with-autocomplete.jpg)
-***<p style="text-align: center;">CM Blog with Autocomplete</p>***
-![CM Blog autocomplete ](img/news-with-instant-search.jpg)
-***<p style="text-align: center;">CM Blog with Instant Search</p>***
-

@@ -127,6 +127,7 @@ Suppose you want to list news of another category in the homepage's hero section
 ![CM News Home Edit ](img/edit-home-visuals.jpg)
 
 ## How to make sticky Header?
+CM Blog theme allows you to make header sticky globally. In order to use this feature you have to download the latest version of <a href="https://wordpress.org/plugins/cm-blocks/" target="_blank">CM Blocks</a> plugin.
 
 ![type:video](img/sticky-header-video.mp4)
 
