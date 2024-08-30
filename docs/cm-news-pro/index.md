@@ -160,7 +160,7 @@ CM News Pro is fully compatible is Search with Typesense. You can check out the 
 More patterns are available in **Cm News Pro** than in the free edition of the cm news. The cm news pro includes several patterns, such as Scroll to top, Content Overlay Patterns, and Ticker Patterns, among other things.
 
 ## Scroll to top features
-Simply put a button on the bottom of footer and apply the **cm-news-pro-scroll-to-top-button** class to it to enable the scroll to top capabilities.
+To implement scroll to top there are two ways. One is simply put a button on the bottom of footer and apply the **cm-news-pro-scroll-to-top-button** class to it to enable the scroll to top capabilities. or you can insert scroll to top feature from the patterns just like you insert other patterns
 
 
 ## Ticker Patterns
