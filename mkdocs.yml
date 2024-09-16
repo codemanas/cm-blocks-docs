@@ -12,6 +12,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 plugins:
+  - search:
+        lang: en
+        separator: '[\s\-]+'
   - mkdocs-video:
       is_video: True
       video_muted: True
@@ -34,9 +37,17 @@ nav:
     - Time to Read : time-to-read.md
   - Scroll to Top : scroll-to-top.md
   - Design Library:
-    - Introduction : design-library/index.md
-    - Features : design-library/features.md
-    - Choose a Pattern : design-library/choose-pattern.md  
+      - Introduction: design-library/index.md
+      - Features: design-library/features.md
+      - Choose a Pattern: design-library/choose-pattern.md
+  - Kits:
+      - Introduction: kits/index.md
+      - Features: kits/features.md
+      - Choose a Kit: kits/choose-kits.md
+  - Favorites:
+      - Introduction: favorites/index.md
+      - Features: favorites/features.md
+      - Add, Remove or Display Favorites: favorites/add-remove-favorites.md
   - Simple Popup Block Plugin:
       - Introduction: simple-popup-block/index.md
       - Installation: simple-popup-block/installation.md
@@ -50,6 +61,13 @@ nav:
           - 'Display On Whole Site': 'simple-popup-block/display-on-whole-site.md'
           - 'Show popup on click': 'simple-popup-block/trigger-on-click.md'
           - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
+  - Sticky Header: sticky-header/index.md
+  - General Theme: general-theme/index.md
+  -  Theme:
+      - CM News: cm-news/index.md
+      - CM Blog: cm-blog/index.md
+      - CM News Pro: cm-news-pro/index.md
+
 
 
         
