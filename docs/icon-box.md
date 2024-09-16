@@ -5,3 +5,13 @@
 ![CM Social Share](img/icon-box/icon-box.jpg)
 
 There is only one choice provided for the icon box that helps in setting its alignment: left, center, and right.
+
+Four different elements are available inside the icon box. Icon, Icon Title, paragraph and button link
+
+**Icon:** Icon blocks allows you to add custom icon to your icon box. There are over thousands of icons available in our icon library.
+
+**Icon Title:** Icon title allows you to add title to your icon box.
+
+**paragraph:** Here you can add the description or the content to your icon box.
+
+**Buttons:** If you would like to redirect to different pages or external sources, you can include relevant links on your icon box.

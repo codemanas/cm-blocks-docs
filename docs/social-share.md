@@ -37,7 +37,7 @@ Size defines the size of an icon. You can set icon size either in **px** or **em
 
 #### Icon Colors
 
-The icon color of the two tabs differs. One is for the label of the icon, and the other is for its color.From the first tab, you can customize the color of the icon and its background. Similar options for text color are provided on the second tab.
+There are two different tabs of icon colors. One is for the label of the icon, and the other is for its color. From the first tab, you can customize the color of the icon and its background. Similar options for text color are provided on the second tab.
 
 ### Social Share Item Setting
 ![Social Share Item Setting](img/social-share/social-share-item.jpg)
