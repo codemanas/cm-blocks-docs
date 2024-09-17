@@ -1,5 +1,5 @@
 ## Introduction
-CM Icon is a WordPress Blocks plugin crafted to customize icons, including the ability to adjust colors, resize icons, and choose from a wide range of icon libraries, such as Material Icons and social media icons. This functionality enhances the visual appeal of websites, allowing for seamless integration of icons that align with the overall design. 
+CM Icon is a WordPress Block crafted to customize icons, including the ability to adjust colors, resize icons, and choose from a wide range of icon libraries, such as Material Icons and social media icons. This functionality enhances the visual appeal of websites, allowing for seamless integration of icons that align with the overall design. 
 
 ## Use Icon 
 
