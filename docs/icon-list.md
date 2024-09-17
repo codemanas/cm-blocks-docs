@@ -1,5 +1,5 @@
 ## Introduction
-The CM Icon List is a WordPress plugin that creates lists with icons next to each item. The icons can be customized in terms of size, color, and style to fit the website’s design. This feature enhances the content’s visual appeal and makes it easier to read by incorporating icons into the list. 
+The CM Icon List is a WordPress Block that creates lists with icons next to each item. The icons can be customized in terms of size, color, and style to fit the website’s design. This feature enhances the content’s visual appeal and makes it easier to read by incorporating icons into the list. 
 
 ## Use Icon List
 To use Our blocks, use the <b>+</b> button and search for "CM Icon List" to access the block.This will insert a default icon list. You can then customize the icon by selecting from the icon library according to your preferences.
