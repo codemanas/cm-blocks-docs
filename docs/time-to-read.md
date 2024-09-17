@@ -1,5 +1,5 @@
 ## Introduction
-CM Time to Read is a Wordpress plugin that displays the estimated time required to finish reading a post.It helps users quickly gauge the length of an article and decide whether to read it.
+CM Time to Read is a block that displays the estimated time required to finish reading a post.It helps users quickly gauge the length of an article and decide whether to read it.
 
 ## Use CM Time to Read
 To use Our blocks, use the <b>+</b> button and search for "CM Time to read" to access the block.You can then customize it by selecting from the icon library according to your preferences.

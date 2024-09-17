@@ -1,5 +1,5 @@
 ## Introduction
-The CM Social Share plugin is a wordpress plugin for enhancing website's social media presence. With its collection of social media icons it can be customized in terms of size, color, and style to fit the content and expand website's social media presence.
+The CM Social Share block allows you to provide shareable link to enhance your website's social media presence. With its collection of social media icons it can be customized in terms of size, color, and style to fit the content and expand website's social media visibility.
 
 ## Use Social Share 
 To use Our blocks, use the <b>+</b> button and search for "CM Social Share" to access the block.This will insert a default social icon list. You can then customize the icon list according to your preferences.

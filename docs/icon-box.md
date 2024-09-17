@@ -1,5 +1,5 @@
 ## Introduction
-The Icon Box WordPress plugin that creates attractive boxes on your website. These boxes can include custom icons, headings, paragraphs, and buttons. You can choose your own icons from the CM Icon feature, while the headings, paragraphs, and buttons are built-in features of WordPress.
+The CM Icon Box WordPress block that creates attractive info / icon boxes on your website. These boxes include custom icons, headings, paragraphs, and buttons. You can choose your own icons from the CM Icon feature, while the headings, paragraphs, and buttons are built-in features of WordPress.
 
 ## Use Icon Box
 To use Our blocks, use the <b>+</b> button and search for "CM Icon Box" to access the block.This will insert a default box consisting of icon, heading, paragraph and button. 
