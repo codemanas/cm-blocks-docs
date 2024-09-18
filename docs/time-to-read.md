@@ -5,7 +5,7 @@ CM Time to Read is a block that displays the estimated time required to finish r
 To use Our blocks, use the <b>+</b> button and search for "CM Time to read" to access the block.You can then customize it by selecting from the icon library according to your preferences.
 
 ### Time to Read Setting
-![CM Time to Read](img/cm-timeline/timeline.png)
+![CM Time to Read](img/time-to-read/timeline.png)
 
 #### Color
 The color feature allows to select the color of the text and background elements. You can choose from a variety of colors to customize the appearance of your content.
