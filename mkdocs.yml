@@ -38,6 +38,7 @@ nav:
     - Star Rating : star-rating.md
     - Timeline : timeline.md
   - Features:
+      - Block Visibility: features/block-visibility.md
       - Site: features/site.md
       - Scroll to Top: features/scroll-to-top.md
   - Design Library:
