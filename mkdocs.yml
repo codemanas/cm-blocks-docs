@@ -37,7 +37,8 @@ nav:
     - Time to Read : time-to-read.md
     - Star Rating : star-rating.md
     - Timeline : timeline.md
-  - Scroll to Top : scroll-to-top.md
+  - Features:
+      - Scroll to Top: features/scroll-to-top.md
   - Design Library:
       - Introduction: design-library/index.md
       - Features: design-library/features.md
