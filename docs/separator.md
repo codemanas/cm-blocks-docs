@@ -28,10 +28,10 @@ Sets the width of the separator
 #### Alignment
 ![CM  Separator Alignment](img/separator/alignment.png)
 
-This options allow you to align the separator left, right or center.
+This options allow to align the separator left, right or center.
 
 #### Append Elements
-This setting allows you to add elements such as text and icon to the separator.
+This setting allows to add elements such as text and icon to the separator.
 By default is set to none.
 
 ![CM  Separator Append None](img/separator/append-none.png)
