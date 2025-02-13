@@ -24,19 +24,21 @@ nav:
   - Installation: installation.md
   - Blocks Template: template.md
   - Blocks:
-    - Slider: slider.md
     - Accordion: accordion.md
-    - Counter: counter.md
-    - Progress Bar: progress-bar.md
-    - Masonry Gallery: masonry-gallery.md
     - Countdown: countdown.md
-    - Icon : icon.md
-    - Icon List : icon-list.md
-    - Icon Box : icon-box.md
+    - Counter: counter.md
+    - Icon: icon.md
+    - Icon Box: icon-box.md
+    - Icon List: icon-list.md
+    - Masonry Gallery: masonry-gallery.md
+    - Progress Bar: progress-bar.md
+    - Separator: separator.md
+    - Slider: slider.md
     - Social Share : social-share.md
-    - Time to Read : time-to-read.md
     - Star Rating : star-rating.md
     - Timeline : timeline.md
+    - Time to Read : time-to-read.md
+
   - Features:
       - Block Visibility: features/block-visibility.md
       - Site: features/site.md
