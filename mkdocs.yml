@@ -5,7 +5,18 @@ theme:
     primary: custom
     accent: custom
   font:
-    text: Sofia Pro
+    text: Roboto
+    code: Fira Code
+  features:
+    - search.suggest
+    - search.share
+    - navigation.footer
+copyright: Copyright &copy; 2016 - 2025 CM Blocks
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/codemanasnp/
 extra_css:
   - css/extra.css
 markdown_extensions:
@@ -13,8 +24,8 @@ markdown_extensions:
       custom_checkbox: true
 plugins:
   - search:
-        lang: en
-        separator: '[\s\-]+'
+      lang: en
+      separator: '[\s\-]+'
   - mkdocs-video:
       is_video: True
       video_muted: True
@@ -24,20 +35,20 @@ nav:
   - Installation: installation.md
   - Blocks Template: template.md
   - Blocks:
-    - Accordion: accordion.md
-    - Countdown: countdown.md
-    - Counter: counter.md
-    - Icon: icon.md
-    - Icon Box: icon-box.md
-    - Icon List: icon-list.md
-    - Masonry Gallery: masonry-gallery.md
-    - Progress Bar: progress-bar.md
-    - Separator: separator.md
-    - Slider: slider.md
-    - Social Share : social-share.md
-    - Star Rating : star-rating.md
-    - Timeline : timeline.md
-    - Time to Read : time-to-read.md
+      - Accordion: accordion.md
+      - Countdown: countdown.md
+      - Counter: counter.md
+      - Icon: icon.md
+      - Icon Box: icon-box.md
+      - Icon List: icon-list.md
+      - Masonry Gallery: masonry-gallery.md
+      - Progress Bar: progress-bar.md
+      - Separator: separator.md
+      - Slider: slider.md
+      - Social Share: social-share.md
+      - Star Rating: star-rating.md
+      - Timeline: timeline.md
+      - Time to Read: time-to-read.md
 
   - Features:
       - Block Visibility: features/block-visibility.md
@@ -70,7 +81,7 @@ nav:
           - 'Show Video in popup': 'simple-popup-block/embed-video-in-popup.md'
   - Sticky Header: sticky-header/index.md
   - General Theme: general-theme/index.md
-  -  Theme:
+  - Theme:
       - CM News: cm-news/index.md
       - CM Blog: cm-blog/index.md
       - CM News Pro: cm-news-pro/index.md
