@@ -36,6 +36,7 @@ nav:
   - Blocks Template: template.md
   - Blocks:
       - Accordion: accordion.md
+      - Advance Heading: advance-heading.md
       - Countdown: countdown.md
       - Counter: counter.md
       - Icon: icon.md
