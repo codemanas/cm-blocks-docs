@@ -1,0 +1,3 @@
+![Starter Sites](./assets/img/starter-sites.webp)
+
+Creating a WordPress website from scratch can be a daunting task—especially when time is of the essence. CM Blocks is here to change that with the Starter Sites feature, offering an effortless and streamlined way to launch your website in no time. Whether you're a beginner or an experienced developer, Starter Sites provides you with everything you need to kickstart your WordPress journey without the usual complexity.

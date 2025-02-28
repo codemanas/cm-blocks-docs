@@ -67,6 +67,9 @@ nav:
       - Introduction: favorites/index.md
       - Features: favorites/features.md
       - Add, Remove or Display Favorites: favorites/add-remove-favorites.md
+  - Starter Sites:
+      - Introduction: starter-sites/index.md
+      - Import Sites: starter-sites/import-sites.md
   - Simple Popup Block Plugin:
       - Introduction: simple-popup-block/index.md
       - Installation: simple-popup-block/installation.md
